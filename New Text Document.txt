@@ -1,0 +1,17 @@
+describeIconResult methods:
+1.getContentType():
+public string getContentType()
+returns jpg/png of icon
+If the icon content type is SVG, the icon won’t have a size and its height is zero.
+2.getHeight()
+public Integer getHeight()
+height of icon
+3.getWidth()
+public Integer getWidth()
+width of icon
+4.getUrl()
+public String getUrl()
+icon url
+5.getTheme()
+public string getTheame()
+returns icon theame
